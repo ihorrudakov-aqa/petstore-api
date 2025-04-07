@@ -8,8 +8,7 @@
 ## Setup
 
 1. Clone the project:
-   `git clone https://github.com/your-username/your-repo.git
-   cd your-repo`
+   `git clone https://github.com/ihorrudakov-aqa/petstore-api.git`
 2. Install all required dependencies `mvn clean install`.
 3. Run tests `mvn clean test`.
 4. You can specify additional parameters: `environment` and `baseUrl`. Example: `mvn clean test -Denvironment=dev -DbaseUrl=https://petstore.swagger.io`.
